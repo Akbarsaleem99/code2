@@ -1,0 +1,13 @@
+Started on Aug 6, 2022 5:14:28 PM
+Started by event from 140.82.115.90 ⇒ http://18.237.192.100:8080/jenkins/github-webhook/ on Sat Aug 06 17:14:28 UTC 2022
+Using strategy: Default
+[poll] Last Built Revision: Revision ec059fbe79d18d9414670638e63f874a0c060690 (origin/master)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.37.1'
+ > git ls-remote -h -- git@github.com:Akbarsaleem99/petclinic.git # timeout=10
+Found 1 remote heads on git@github.com:Akbarsaleem99/petclinic.git
+[poll] Latest remote head revision on refs/heads/master is: 27edadfe11d318123ea12d87838de09582c5eab0
+Done. Took 0.92 sec
+Changes found
